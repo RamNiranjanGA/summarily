@@ -1,0 +1,6 @@
+{
+  "installCommand": "npm --prefix summarizer ci",
+  "buildCommand": "npm --prefix summarizer run build",
+  "outputDirectory": "summarizer/dist",
+  "framework": "vite"
+}
