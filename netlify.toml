@@ -1,4 +1,4 @@
-[build]
+git [build]
   base = "summarizer"
   command = "npm run build"
   publish = "dist"
